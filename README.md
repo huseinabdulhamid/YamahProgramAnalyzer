@@ -183,15 +183,12 @@ The application supports information commonly used in Yamaha SMT programs:
 
 ### Main Dashboard
 
-_Add application screenshot here_
-
-### Search Engine
-
-_Add application screenshot here_
+<img width="1043" height="685" alt="image" src="https://github.com/user-attachments/assets/820c1cf6-29a0-471a-85fc-b1d44e38a530" />
 
 ### Analysis Result
 
-_Add application screenshot here_
+<img width="1908" height="896" alt="image" src="https://github.com/user-attachments/assets/e0d5f6b7-da6d-4ee2-82b1-dd5fa2623be4" />
+
 
 ---
 
