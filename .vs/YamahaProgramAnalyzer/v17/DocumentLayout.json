@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\yamahaprogramanalyzer\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|solutionrelative:yamahaprogramanalyzer\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\yamahaprogramanalyzer\\forms\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|solutionrelative:yamahaprogramanalyzer\\forms\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\yamahaprogramanalyzer\\model\\mountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|solutionrelative:yamahaprogramanalyzer\\model\\mountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\yamahaprogramanalyzer\\model\\mountparameterresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|solutionrelative:yamahaprogramanalyzer\\model\\mountparameterresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\yamahaprogramanalyzer\\model\\partmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|solutionrelative:yamahaprogramanalyzer\\model\\partmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\yamahaprogramanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|solutionrelative:yamahaprogramanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\yamahaprogramanalyzer\\model\\partparameterresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|solutionrelative:yamahaprogramanalyzer\\model\\partparameterresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\yamahaprogramanalyzer\\services\\ygxparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|solutionrelative:yamahaprogramanalyzer\\services\\ygxparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\yamahaprogramanalyzer\\ygxdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|solutionrelative:yamahaprogramanalyzer\\ygxdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|m:\\smt\\equipment\\hb\\3. apps\\1. pnp reader\\yamahaprogramanalyzer\\yamahaprogramanalyzer\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|solutionrelative:yamahaprogramanalyzer\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\yamahaprogramanalyzer\\services\\mountsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1727CA97-C6B2-48CF-A977-423DABD357D3}|YamahaProgramAnalyzer\\YamahaProgramAnalyzer.csproj|solutionrelative:yamahaprogramanalyzer\\services\\mountsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PartParameterResult.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Model\\PartParameterResult.cs",
+              "RelativeDocumentMoniker": "YamahaProgramAnalyzer\\Model\\PartParameterResult.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Model\\PartParameterResult.cs",
+              "RelativeToolTip": "YamahaProgramAnalyzer\\Model\\PartParameterResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T21:08:02.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YgxParser.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Services\\YgxParser.cs",
+              "RelativeDocumentMoniker": "YamahaProgramAnalyzer\\Services\\YgxParser.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Services\\YgxParser.cs",
+              "RelativeToolTip": "YamahaProgramAnalyzer\\Services\\YgxParser.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowNMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T20:16:56.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YgxDatabase.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\YgxDatabase.cs",
+              "RelativeDocumentMoniker": "YamahaProgramAnalyzer\\YgxDatabase.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\YgxDatabase.cs",
+              "RelativeToolTip": "YamahaProgramAnalyzer\\YgxDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T17:59:45.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Program.cs",
+              "RelativeDocumentMoniker": "YamahaProgramAnalyzer\\Program.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Program.cs",
+              "RelativeToolTip": "YamahaProgramAnalyzer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T17:59:35.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartModel.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Model\\PartModel.cs",
+              "RelativeDocumentMoniker": "YamahaProgramAnalyzer\\Model\\PartModel.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Model\\PartModel.cs",
+              "RelativeToolTip": "YamahaProgramAnalyzer\\Model\\PartModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T17:59:23.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MountParameterResult.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Model\\MountParameterResult.cs",
+              "RelativeDocumentMoniker": "YamahaProgramAnalyzer\\Model\\MountParameterResult.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Model\\MountParameterResult.cs",
+              "RelativeToolTip": "YamahaProgramAnalyzer\\Model\\MountParameterResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T17:59:12.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MountModel.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Model\\MountModel.cs",
+              "RelativeDocumentMoniker": "YamahaProgramAnalyzer\\Model\\MountModel.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Model\\MountModel.cs",
+              "RelativeToolTip": "YamahaProgramAnalyzer\\Model\\MountModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T17:58:57.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Forms\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "YamahaProgramAnalyzer\\Forms\\FrmMain.Designer.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Forms\\FrmMain.Designer.cs",
+              "RelativeToolTip": "YamahaProgramAnalyzer\\Forms\\FrmMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T20:44:21.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Forms\\FrmMain.cs",
+              "RelativeDocumentMoniker": "YamahaProgramAnalyzer\\Forms\\FrmMain.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Forms\\FrmMain.cs",
+              "RelativeToolTip": "YamahaProgramAnalyzer\\Forms\\FrmMain.cs",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAIwCUCAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T20:42:58.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Forms\\FrmMain.cs",
+              "RelativeDocumentMoniker": "YamahaProgramAnalyzer\\Forms\\FrmMain.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Forms\\FrmMain.cs [Design]",
+              "RelativeToolTip": "YamahaProgramAnalyzer\\Forms\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T08:23:03.408Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MountSearchService.cs",
+              "DocumentMoniker": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Services\\MountSearchService.cs",
+              "RelativeDocumentMoniker": "YamahaProgramAnalyzer\\Services\\MountSearchService.cs",
+              "ToolTip": "M:\\SMT\\Equipment\\HB\\3. Apps\\1. Pnp Reader\\YamahaProgramAnalyzer\\YamahaProgramAnalyzer\\Services\\MountSearchService.cs",
+              "RelativeToolTip": "YamahaProgramAnalyzer\\Services\\MountSearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T20:46:38.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

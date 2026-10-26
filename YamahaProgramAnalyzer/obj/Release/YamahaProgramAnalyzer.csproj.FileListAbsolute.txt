@@ -1,0 +1,11 @@
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\bin\Release\YamahaProgramAnalyzer.exe.config
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\bin\Release\YamahaProgramAnalyzer.exe
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\bin\Release\YamahaProgramAnalyzer.pdb
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Release\YamahaProgramAnalyzer.csproj.AssemblyReference.cache
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Release\YamahaProgramAnalyzer.FrmMain.resources
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Release\YamahaProgramAnalyzer.Properties.Resources.resources
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Release\YamahaProgramAnalyzer.csproj.GenerateResource.cache
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Release\YamahaProgramAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Release\YamahaProgramAnalyzer.exe
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Release\YamahaProgramAnalyzer.pdb
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Release\YamahaProgramAnalyzer.exe.config

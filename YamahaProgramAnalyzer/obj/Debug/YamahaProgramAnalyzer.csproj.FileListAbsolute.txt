@@ -1,0 +1,22 @@
+M:\SMT\Equipment\HB\3. Apps\1. Pnp Reader\YamahaProgramAnalyzer\YamahaProgramAnalyzer\bin\Debug\YamahaProgramAnalyzer.exe
+M:\SMT\Equipment\HB\3. Apps\1. Pnp Reader\YamahaProgramAnalyzer\YamahaProgramAnalyzer\bin\Debug\YamahaProgramAnalyzer.pdb
+M:\SMT\Equipment\HB\3. Apps\1. Pnp Reader\YamahaProgramAnalyzer\YamahaProgramAnalyzer\bin\Debug\YamahaProgramAnalyzer.exe.config
+M:\SMT\Equipment\HB\3. Apps\1. Pnp Reader\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.csproj.AssemblyReference.cache
+M:\SMT\Equipment\HB\3. Apps\1. Pnp Reader\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.FrmMain.resources
+M:\SMT\Equipment\HB\3. Apps\1. Pnp Reader\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.Properties.Resources.resources
+M:\SMT\Equipment\HB\3. Apps\1. Pnp Reader\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.csproj.GenerateResource.cache
+M:\SMT\Equipment\HB\3. Apps\1. Pnp Reader\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.csproj.CoreCompileInputs.cache
+M:\SMT\Equipment\HB\3. Apps\1. Pnp Reader\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.exe
+M:\SMT\Equipment\HB\3. Apps\1. Pnp Reader\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.pdb
+M:\SMT\Equipment\HB\3. Apps\1. Pnp Reader\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.exe.config
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\bin\Debug\YamahaProgramAnalyzer.exe.config
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\bin\Debug\YamahaProgramAnalyzer.exe
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\bin\Debug\YamahaProgramAnalyzer.pdb
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.csproj.AssemblyReference.cache
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.exe.config
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.FrmMain.resources
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.Properties.Resources.resources
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.csproj.GenerateResource.cache
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.exe
+C:\Users\huhamid\OneDrive - OSI Systems, Inc\Desktop\YamahaProgramAnalyzer\YamahaProgramAnalyzer\obj\Debug\YamahaProgramAnalyzer.pdb
